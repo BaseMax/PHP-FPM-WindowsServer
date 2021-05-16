@@ -2,7 +2,6 @@
 
 I have tested this script and for more than a few days now, PHP has been running on the server and has not had any interruptions.
 
-I have tested this script and for more than a few days now, PHP has been running on the server and has not had any interruptions.
 Even if the server disconnected. It will reconnect automatically (instant)
 
 ## Steps
